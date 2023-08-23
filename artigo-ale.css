@@ -11,6 +11,10 @@ nav {
     margin-left: 5vw;
 }
 
+img {
+    align-items: center;
+}
+
 .action {
     display: inline-flex;
     margin-top: 1rem;
